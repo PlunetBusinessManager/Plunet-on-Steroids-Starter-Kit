@@ -7,6 +7,9 @@ Below I will outline all the steps required to get your first button into your p
 The corresponding discussion can be found at:
 https://community.plunet.com/t/h7h4bpx/plunet-on-steroids-a-getting-started-guide-with-a-sample-tool
 
+The presentation from the Plunet Summit can be found here:
+https://github.com/PlunetBusinessManager/Plunet-on-Steroids-Starter-Kit/blob/main/PluSum23_IanBarrow.pptx
+
 There are 5 components used in this setup that can be found in the zip file.
 Please note all my experimenting is done using Firefox browser.
 Both the AHK scripts below should be compiled into exe using AutoHotKey version 1.1.36.
