@@ -1,4 +1,4 @@
-# Plunet-on-Steroids-Starter-Kit
+# Plunet-on-Steroids-Starter-Kit by Ian Barrow
 Starter Kit for JS Customization and AutoHotKey
 
 ## Introduction
